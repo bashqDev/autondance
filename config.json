@@ -1,0 +1,5 @@
+{
+    "allStudents": ["your", "student", "names", "as", "they", "are", "shown", "on", "the", "app"],
+    "lang": "eng",
+    "imagePath": "/path/to/your/image"
+}
