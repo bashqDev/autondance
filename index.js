@@ -12,5 +12,5 @@ Tesseract.recognize(
 
     let absent = allStudents.filter(x => !text.includes(x));
     console.log("The students that seem to be missing");
-    console.log(difference);
+    console.log(absent);
   })
