@@ -9,7 +9,8 @@ It can take attendance semi-automatically at online meetings.
 - A command line interface (PowerShell/bash/zsh)
 
 ## Usage and configuration
-Modifying the fields in "config.json" should get you started right away
+Modifying the fields in "config.json" using help from the guide below should help you get started
+
 `allstudents`: Put in the list of your students in an array format.
 
 `lang`: Put in the language of your text according to [this table.](https://tesseract-ocr.github.io/tessdoc/Data-Files#data-files-for-version-400-november-29-2016)
